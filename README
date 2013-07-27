@@ -1,5 +1,5 @@
 This is a sample app that demonstrates a possible way to integrate Grails (2.2.0) + Spring Security Plugin + CAS + LDAP.
 
 The work was based on this link: http://dominikschuermann.de/index.php/2010/11/using-grails-with-cas-and-ldap/ 
-but unfortunately the link is not active.
+but unfortunately the link is not active anymore.
 
